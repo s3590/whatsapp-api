@@ -1,1 +1,1 @@
-FROM evoapicloud/evolution-api:latest
+FROM evoapicloud/evolution-api:v2.2.1
