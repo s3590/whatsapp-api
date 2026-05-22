@@ -1,1 +1,1 @@
-FROM atendesmart/evolution-api:latest
+FROM evolutionapi/evolution-api:latest
